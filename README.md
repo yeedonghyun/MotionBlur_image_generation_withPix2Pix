@@ -1,2 +1,2 @@
-# Generate_motionBlur_withPix2Pix
+# motionBlur Generation with Pix2Pix
  
