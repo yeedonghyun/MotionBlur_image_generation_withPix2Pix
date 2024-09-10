@@ -1,2 +1,2 @@
-# motionBlur Generation with Pix2Pix
+# Motion blur image generation with Pix2Pix
  
