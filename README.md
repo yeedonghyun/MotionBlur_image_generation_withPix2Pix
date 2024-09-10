@@ -1,7 +1,7 @@
 # Motion blur image generation with Pix2Pix
+This repository 
 
 ## For Training
-
 ```shell
 pip import tensorflow
 pip install matplotlib
@@ -10,7 +10,10 @@ pip insatll numpy
 pip install -U scikit-image
 pip install pillow
 python train.py
-```shell
+```
 
 ## For Generating
+```shell
 python inference.py
+```
+
