@@ -1,7 +1,6 @@
 # Motion blur image generation with Pix2Pix
 
- 
-##For Training
+## For Training
 
 ```shell
 pip import tensorflow
@@ -13,5 +12,5 @@ pip install pillow
 python train.py
 ```shell
 
-##For Generation
+## For Generating
 python inference.py
