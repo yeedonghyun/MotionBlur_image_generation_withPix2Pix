@@ -1,6 +1,6 @@
 # Motion blur image generation with Pix2Pix
 
-This repository shows how to create a model that uses the PIX2PIX algorithm to generate motion blur images.
+This repository shows how to create a model that uses the [Pix2Pix](https://arxiv.org/abs/1611.07004) algorithm to generate motion blur images.
 
 I will be updating the training results, loss, training process, and more soon.
 
